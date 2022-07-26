@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/voltairine-de-cleyre/short-fiction</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-07-26T16:09:40Z</dc:date>
+		<meta property="dcterms:modified">2022-07-26T16:09:40Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -36,7 +36,7 @@
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
-		<dc:description id="description">A collection of all the short stories written by Voltairine de Cleyre.</dc:description>
+		<dc:description id="description">A collection of all of the short stories written by Voltairine de Cleyre.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Although most of &lt;a href="https://standardebooks.org/ebooks/voltairine-de-cleyre"&gt;Voltairine de Cleyre’s&lt;/a&gt; literary output was in the form of &lt;a href="https://standardebooks.org/ebooks/voltairine-de-cleyre/poetry"&gt;poetry&lt;/a&gt;, she also wrote several short stories and sketches in prose form. De Cleyre, whose life and career overlapped with the height of the Gilded Age in the United States, depicted the lives of the urban poor—especially women—in her stories, reflecting her social concerns and her radical politics as an anarchist feminist.&lt;/p&gt;
 		</meta>
@@ -45,8 +45,8 @@
 		<dc:source>https://archive.org/details/selectedworksvo01havegoog</dc:source>
 		<dc:source>https://theanarchistlibrary.org/library/rosa-slobodinsky-and-voltairine-de-cleyre-the-individualist-and-the-communist</dc:source>
 		<dc:source>https://www.google.com/books/edition/Twentieth_Century/NTlFAQAAMAAJ</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">21052</meta>
+		<meta property="se:reading-ease.flesch">76.05</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/voltairine-de-cleyre_short-fiction</meta>
 		<dc:creator id="author">Voltairine de Cleyre</dc:creator>
 		<meta property="file-as" refines="#author">de Cleyre, Voltairine</meta>
@@ -88,6 +88,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">ann</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
