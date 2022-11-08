@@ -41,10 +41,17 @@
 			&lt;p&gt;Although most of &lt;a href="https://standardebooks.org/ebooks/voltairine-de-cleyre"&gt;Voltairine de Cleyre’s&lt;/a&gt; literary output was in the form of &lt;a href="https://standardebooks.org/ebooks/voltairine-de-cleyre/poetry"&gt;poetry&lt;/a&gt;, she also wrote several short stories and sketches in prose form. De Cleyre, whose life and career overlapped with the height of the Gilded Age in the United States, depicted the lives of the urban poor—especially women—in her stories, reflecting her social concerns and her radical politics as an anarchist feminist.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
+		<!--Selected Works of Voltairine de Clyre-->
 		<dc:source>https://www.gutenberg.org/ebooks/43098</dc:source>
 		<dc:source>https://archive.org/details/selectedworksvo01havegoog</dc:source>
+		<!--The Individualist and the Communist-->
 		<dc:source>https://theanarchistlibrary.org/library/rosa-slobodinsky-and-voltairine-de-cleyre-the-individualist-and-the-communist</dc:source>
 		<dc:source>https://www.google.com/books/edition/Twentieth_Century/NTlFAQAAMAAJ</dc:source>
+		<!--Some Nihilists I Have Met-->
+		<dc:source>https://archive.org/details/some_nihilists_i_have_met</dc:source>
+		<dc:source>https://theanarchistlibrary.org/library/voltairine-de-cleyre-some-nihilists-i-have-met</dc:source>
+		<!--Between the Living and the Dead-->
+		<dc:source>https://archive.org/details/mother-earth/Mother%20Earth%20v01n08%20%281906-10%29%20%28c2c%20Harvard%20DSR%29</dc:source>
 		<meta property="se:word-count">21052</meta>
 		<meta property="se:reading-ease.flesch">76.05</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/voltairine-de-cleyre_short-fiction</meta>
@@ -78,6 +85,10 @@
 		<meta property="file-as" refines="#transcriber-4">Panarchy</meta>
 		<meta property="se:url.homepage" refines="#transcriber-4">https://www.panarchy.org</meta>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-5">Robert P. Helms</dc:contributor>
+		<meta property="file-as" refines="#transcriber-5">Helms, Robert P.</meta>
+		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
+		<meta property="se:role" refines="#transcriber-5" scheme="marc:relators">crp</meta>
 		<dc:contributor id="producer-1">Weijia Cheng</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cheng, Weijia</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://www.weijiarhymeswith.asia</meta>
@@ -102,9 +113,11 @@
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/a-rocket-of-iron.xhtml" id="a-rocket-of-iron.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/at-the-end-of-the-alley.xhtml" id="at-the-end-of-the-alley.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/between-the-living-and-the-dead.xhtml" id="between-the-living-and-the-dead.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/some-nihilists-i-have-met.xhtml" id="some-nihilists-i-have-met.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-chain-gang.xhtml" id="the-chain-gang.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-heart-of-angiolillo.xhtml" id="the-heart-of-angiolillo.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-individualist-and-the-communist.xhtml" id="the-individualist-and-the-communist.xhtml" media-type="application/xhtml+xml"/>
@@ -132,6 +145,8 @@
 		<itemref idref="the-old-shoemaker.xhtml"/>
 		<itemref idref="where-the-white-rose-died.xhtml"/>
 		<itemref idref="the-individualist-and-the-communist.xhtml"/>
+		<itemref idref="some-nihilists-i-have-met.xhtml"/>
+		<itemref idref="between-the-living-and-the-dead.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
