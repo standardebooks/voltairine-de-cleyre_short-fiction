@@ -70,7 +70,8 @@
 		<meta property="file-as" refines="#contributor">Slobodinsky, Rosa</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#contributor">https://en.wikipedia.org/wiki/Rachelle_Yarros</meta>
 		<meta property="se:url.authority.nacoaf" refines="#contributor">http://id.loc.gov/authorities/names/no2010061302</meta>
-		<meta property="role" refines="#contributor" scheme="marc:relators">art</meta>
+		<meta property="role" refines="#contributor" scheme="marc:relators">ctb</meta>
+		<meta property="display-seq" refines="#contributor">0</meta>
 		<dc:contributor id="transcriber-1">Bryan Ness</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Ness, Bryan</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
