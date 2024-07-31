@@ -52,7 +52,7 @@
 		<dc:source>https://theanarchistlibrary.org/library/voltairine-de-cleyre-some-nihilists-i-have-met</dc:source>
 		<!--Between the Living and the Dead-->
 		<dc:source>https://archive.org/details/mother-earth/Mother%20Earth%20v01n08%20%281906-10%29%20%28c2c%20Harvard%20DSR%29</dc:source>
-		<meta property="se:word-count">26016</meta>
+		<meta property="se:word-count">26009</meta>
 		<meta property="se:reading-ease.flesch">67.99</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/voltairine-de-cleyre_short-fiction</meta>
 		<dc:creator id="author">Voltairine de Cleyre</dc:creator>
