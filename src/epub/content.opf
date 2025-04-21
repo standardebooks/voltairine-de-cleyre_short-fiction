@@ -36,6 +36,7 @@
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of all of the short stories written by Voltairine de Cleyre.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Although most of &lt;a href="https://standardebooks.org/ebooks/voltairine-de-cleyre"&gt;Voltairine de Cleyre’s&lt;/a&gt; literary output was in the form of &lt;a href="https://standardebooks.org/ebooks/voltairine-de-cleyre/poetry"&gt;poetry&lt;/a&gt;, she also wrote several short stories and sketches in prose form. De Cleyre, whose life and career overlapped with the height of the Gilded Age in the United States, depicted the lives of the urban poor—especially women—in her stories, reflecting her social concerns and her radical politics as an anarchist feminist.&lt;/p&gt;
