@@ -57,7 +57,7 @@
 		<dc:source>https://archive.org/details/mother-earth/Mother%20Earth%20v01n08%20%281906-10%29%20%28c2c%20Harvard%20DSR%29</dc:source>
 		<meta property="schema:wordCount">25802</meta>
 		<meta property="schema:educationalLevel">67.99</meta>
-		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/voltairine-de-cleyre_short-fiction" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Voltairine de Cleyre</dc:creator>
